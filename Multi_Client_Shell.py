@@ -3,8 +3,8 @@ import socket
 import time
 import sys
 
-host = '192.168.0.117'
-port = '12345'
+host = ''
+port = ''
 
 conns = []
 addrs = []
